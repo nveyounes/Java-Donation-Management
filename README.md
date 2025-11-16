@@ -111,8 +111,8 @@ This means all data is **lost when the application is closed**. The focus of the
 
 This was an academic project for **ISGA (EDVANTIS Higher Education Group)**.
 
-* **Younes Farhat**
-* **Younes Bellamine**
+* **Farhat**
+* **Bellamine**
 
 ### Supervised By:
 * **Mme. SBAI**
